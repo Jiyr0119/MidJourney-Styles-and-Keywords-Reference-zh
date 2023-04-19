@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # MidJourney 调教指南
 
 样式
