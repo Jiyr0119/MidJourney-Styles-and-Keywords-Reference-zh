@@ -4,37 +4,70 @@ layout: landing
 
 # MidJourney 调教指南
 
-![Midjourney Styles and Keywords Reference](Images/Repo\_Parts/Banner/banner\_light.png)
+样式\
 
-***
 
-[![🔗 Links To Docs and Other Resources](Images/Repo\_Parts/Buttons/Main\_Page\_Top\_Section/button\_links.webp) ](Pages/Links.md) [![💬 Our Discord Thread](Images/Repo\_Parts/Buttons/Main\_Page\_Top\_Section/button\_discord\_thread.webp)](https://discord.com/channels/662267976984297473/995554362686439526)\
-[![❔ How-To Guide](Images/Repo\_Parts/Buttons/Main\_Page\_Top\_Section/button\_how-to\_guide.webp) ](https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/wiki/%E2%9D%94-How-To-Guide) [![📝 Observation and Research Notes](Images/Repo\_Parts/Buttons/Main\_Page\_Top\_Section/button\_observation\_and\_research\_notes.webp) ](https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/wiki/%F0%9F%93%9D-Observation-and-Research-Notes) [![⚪ Control and Image Seed](Images/Repo\_Parts/Buttons/Main\_Page\_Top\_Section/button\_control\_image.webp)](Pages/Control\_Image.md)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_all_style_pages.webp" alt=""><figcaption></figcaption></figure>
 
-***
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_experimental.webp" alt=""><figcaption></figcaption></figure>
 
-#### 样式
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_miscellaneous.webp" alt=""><figcaption></figcaption></figure>
 
-[![🌈 Rainbow of Midjourney Colors](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_rainbow\_of\_midjourney\_colors.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Rainbow\_of\_Colors.md)\
-[![😊 Emojis](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_emojis.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Emojis.md)\
-[![🎭 Themes](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_themes.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Themes.md) [![🖼 Design Styles](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_design\_styles.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Design\_Styles.md) [![🖥 Digital](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_digital.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Digital.md)\
-[![📔 Artists](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_artists.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Artists.md) [![🖌 Drawing and Art Mediums](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_drawing\_and\_art\_mediums.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Drawing\_and\_Art\_Mediums.md) [![🎨 Colors and Palettes](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_colors\_and\_palettes.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Colors\_and\_Palettes.md)\
-[![🧱 Materials](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_materials.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Materials.md) [![🎷 Objects](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_objects.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Objects.md) [![📦 Material Properties](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_material\_properties.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Material\_Properties.md)\
-[![💡 Lighting](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_lighting.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Lighting.md) [![🌈 SFX and Shaders](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_sfx.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/SFX\_and\_Shaders.md) [![🌌 Dimensionality](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_dimensionality.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Dimensionality.md)\
-[![🌲 Nature and Animals](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_nature\_and\_animals.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Nature\_and\_Animals.md) [![🗺 Geography and Culture](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_geography\_and\_culture.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Geography\_and\_Culture.md) [![☄ Outer Space](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_outer\_space.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Outer\_Space.md)\
-[![📷 Camera, Film, and Lenses](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_camera.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Camera.md) [![🛤️ Perspective](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_perspective.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Perspective.md) [![🎬 TV Shows and Movies](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_tv\_and\_movies.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/TV\_and\_Movies.md)\
-[![💠 Geometry](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_geometry.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Geometry.md) [![♻ Structural Modification](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_structural\_modification.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Structural\_Modification.md) [![➰ Intangibles](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_intangibles.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Intangibles.md)\
-[![🎙 Song Lyrics](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_song\_lyrics.webp) ](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Song\_Lyrics.md) [![🖇🎰 Combinations](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_combinations.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Combinations.md)\
-[![🎛 Miscellaneous](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_miscellaneous.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Miscellaneous.md)\
-[![🧪 Experimental](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_style\_experimental.webp)](Pages/MJ\_V4/Style\_Pages/Just\_The\_Style/Experimental.md)\
-[![🎴 All Style Pages](Images/Repo\_Parts/Buttons/Style\_Buttons/button\_all\_style\_pages.webp)](Pages/Style\_Pages.md)
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_combinations.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_song_lyrics.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_intangibles.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_structural_modification.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_geometry.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_tv_and_movies.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_perspective.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_camera.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_outer_space.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_geography_and_culture.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_nature_and_animals.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_dimensionality.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_sfx.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_lighting.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_material_properties.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_objects.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_materials.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_colors_and_palettes.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_drawing_and_art_mediums.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_artists.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_digital.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_design_styles.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_style_themes.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="Images/Repo_Parts/Buttons/Style_Buttons/button_emojis.webp" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### 对比页面
 
-![✍ Prompt Writing](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Page\_Category\_Labels/prompt\_writing.webp)\
+\
 [![⌨ Prompt Format Comparison](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_prompt\_formatting.webp) ](Pages/MJ\_V4/Comparison\_Pages/Prompt\_Writing/Prompt\_Format\_Comparison.md) [![🔠 Text In Image Comparison](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_text\_in\_image.webp) ](Pages/MJ\_V4/Comparison\_Pages/Prompt\_Writing/Text\_In\_Image\_Comparison.md) [![⚖ Keyword Weight Comparison](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_keyword\_weight.webp)](Pages/MJ\_V4/Comparison\_Pages/Prompt\_Writing/Keyword\_Weight\_Comparison.md)\
 [![🦚 Adjective Comparison](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_adjective\_comparison.webp) ](Pages/MJ\_V3/Comparison\_Pages/Prompt\_Writing/Adjective\_Comparison.md) [![📓 Word Suffix Comparison](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_word\_suffix\_comparison.webp) ](Pages/MJ\_V3/Comparison\_Pages/Prompt\_Writing/Word\_Suffix\_Comparison.md) [![🗜 Compound Word Comparison](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_compound\_word\_format.webp)](Pages/MJ\_V4/Comparison\_Pages/Prompt\_Writing/Compound\_Word\_Format\_Comparison/Compound\_Word\_Format\_Comparison.md)\
 ![🧩 Prompt Parameters](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Page\_Category\_Labels/prompt\_parameters.webp)\
@@ -44,15 +77,11 @@ layout: landing
 [![📏 Image Resolution Comparison](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/Differed\_Lengths/button\_image\_resolutions\_half.webp) ](Pages/MJ\_V4/Comparison\_Pages/Image\_Resolution\_and\_Upscaling/Image\_Resolution\_Comparison/Image\_Resolution\_Comparison.md) [![🚀 Image Upscale Comparison](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/Differed\_Lengths/button\_image\_upscaling\_half.webp)](Pages/MJ\_V4/Comparison\_Pages/Image\_Resolution\_and\_Upscaling/Image\_Upscale\_Comparison.md)\
 ![🔀 Cross Analysis Pages](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Page\_Category\_Labels/cross\_analysis\_pages.webp)\
 [![🎇💎 --quality/--stylize Cross Analysis](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_quality\_stylize.webp) ](Pages/MJ\_V3/Comparison\_Pages/Cross\_Analysis/Stylize\_Quality\_Cross\_Analysis.md) [![🌪🎇 --chaos/--stylize Cross Analysis](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_chaos\_stylize.webp) ](Pages/MJ\_V3/Comparison\_Pages/Cross\_Analysis/Chaos\_Stylize\_Cross\_Analysis.md) [![🌪💎 --chaos/--quality Cross Analysis](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_chaos\_quality.webp)](Pages/MJ\_V3/Comparison\_Pages/Cross\_Analysis/Chaos\_Quality\_Cross\_Analysis.md)\
-![📀 Remix and Remaster](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Page\_Category\_Labels/remix\_and\_remaster.webp)  [![✨ Remaster](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/Differed\_Lengths/button\_remaster\_half.webp) ](Pages/Comparison\_Pages/Remaster.md) [![🧬 Version Remixing](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_version\_remixing.webp)](Pages/Comparison\_Pages/Version\_Remixing/V1-V4.md)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![📀 Remix and Remaster](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Page\_Category\_Labels/remix\_and\_remaster.webp)  [![✨ Remaster](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/Differed\_Lengths/button\_remaster\_half.webp) ](Pages/Comparison\_Pages/Remaster.md) ![🧬 Version Remixing](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_version\_remixing.webp)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<figure><img src="Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/prompt_writing.webp" alt=""><figcaption></figcaption></figure>
 
 ***
-
-[![📇 Version Comparison](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_version\_comparison.webp) ](Pages/Comparison\_Pages/Version\_Comparison/V1\_V2\_V3\_V4.md) [![🧪 Experiments](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/Comparison\_Pages/button\_experiments.webp)](https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/wiki/%F0%9F%A7%AA-Experiments)
-
-***
-
-[![More Comparison Pages...](Images/Repo\_Parts/Buttons/Comparison\_Page\_Buttons/button\_more\_comparison\_pages.webp)](Pages/More\_Comparison\_Pages.md)
 
 ***
