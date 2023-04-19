@@ -363,7 +363,3 @@
 </div>
 
 <hr>
-
-https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
-
-[![Stargazers over time](https://starchart.cc/firmianay/MidJourney-Styles-and-Keywords-Reference-zh.svg)](https://starchart.cc/firmianay/MidJourney-Styles-and-Keywords-Reference-zh)
